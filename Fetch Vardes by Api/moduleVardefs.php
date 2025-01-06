@@ -115,10 +115,10 @@ function fetchVardefs($baseUrl, $bearerToken, $moduleNames)
 }
 
 // Configuration
-$client_id = "1576cdea-3bb0-f4d3-0e67-6763ec530b70";
-$client_secret = "1111";
-$username = "Administrator";
-$password = "admin";
+$client_id = "";
+$client_secret = "";
+$username = "";
+$password = "";
 $baseUrl = "http://localhost/imb-suitecrm/SuiteCRM/public/Api/";
 
 $accessTokenEndpoint = "{$baseUrl}access_token";
